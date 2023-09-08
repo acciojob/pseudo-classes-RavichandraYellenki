@@ -21,7 +21,11 @@ li{
 ul :nth-child(odd){
 	background-color: white;
 }
-ul :first-child, ul :last-child{
+ul :first-child{
+	font-size: 22px;
+	background-color: white;
+}
+ul :last-child{
 	font-size: 22px;
 	background-color: white;
 }
