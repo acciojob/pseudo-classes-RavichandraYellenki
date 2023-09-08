@@ -1,9 +1,10 @@
-body :root{
+ :root{
 	background-color:rgb(135, 206, 235);
 }
 article :first-child{
+		color: white;
 	background-color: black;
-	color: white;
+
 }
 article :nth-child(2){
 	
