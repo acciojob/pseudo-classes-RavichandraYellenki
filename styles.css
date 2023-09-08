@@ -23,6 +23,7 @@ ul :nth-child(odd){
 }
 ul :first-child, ul :last-child{
 	font-size: 22px;
+	background-color: white;
 }
 ul :nth-child(3){
 	background-color:pink;
